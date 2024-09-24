@@ -36,9 +36,6 @@ const LeftSidebar = ({ allShapes }: { allShapes: Array<any> }) => {
             );
           })}
         </div>
-        <h3 className='absolute bottom-16 left-0 right-0 border-t border-primary-grey-200 px-5 py-4 text-xs uppercase'>
-          Footer
-        </h3>
       </section>
     ),
     [allShapes?.length]
