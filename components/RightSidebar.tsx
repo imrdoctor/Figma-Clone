@@ -8,7 +8,6 @@ import Text from "./settings/Text";
 import Color from "./settings/Color";
 import Export from "./settings/Export";
 import Dimensions from "./settings/Dimensions";
-import logo from "@/public/assets/favicon.ico";
 const RightSidebar = ({
   elementAttributes,
   setElementAttributes,
